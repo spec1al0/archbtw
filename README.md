@@ -1,2 +1,2 @@
 # archbtw
-Here's everything about my dear Arch Linux
+Here's everything about my dear Arch Linux!
